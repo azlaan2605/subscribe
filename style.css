@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(1, 212, 219);
+}
+.sechead {
+    color: rgb(140, 238, 28);
+}
+.paraone {
+    color: grey;
+    font-weight: bold;
+}
+.one {
+    height: 300px;
+    width: 800px;
+    padding: 60px;
+    font: caption;
+}
+.two {
+    height: 419px;
+    width: 50%;
+    padding: 60px;
+    font: caption;
+    color: white;
+    background-color: rgb(1, 212, 219);
+}
+.three {
+    height: 419px;
+    width: 50%;
+    float: right;
+    margin-top: -419px;
+    margin-right: 3px;
+    padding: 60px;
+    font:caption;
+    color: white;
+    background-color: rgb(51, 240, 240);
+} 
+.butonone {
+    background-color: rgb(166, 245, 9);
+    width: 234px;
+    color: white;
+    height: 52px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+}
